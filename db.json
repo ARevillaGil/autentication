@@ -1,0 +1,7 @@
+{
+"success":true,
+"cause":null,
+"data":[
+ {"codi": "07002455", "carrecs":["Director EP", "Director ESO"], "perfils": ["CAP DE SECRETARIA", "ADMINISTRATIU"]},
+ {"codi": "07001245", "carrecs":["Director ESO"], "perfils": ["ADMINISTRATIU"]}
+]}
