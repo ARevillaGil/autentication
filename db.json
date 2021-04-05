@@ -1,7 +1,238 @@
 {
-"success":true,
-"cause":null,
-"data":[
- {"codi": "07002455", "carrecs":"Director EP", "perfils": "CAP DE SECRETARIA"},
- {"codi": "07001245", "carrecs":"Director ESO", "perfils": "ADMINISTRATIU"}
-]}
+  "success": true,
+  "cause": null,
+  "data": [
+    {
+      "nivell": "EI",
+      "codi": 4142,
+      "descripcio": "Llenguatges: comunicació i representació",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EP",
+      "codi": 132,
+      "descripcio": "Alliberat EI",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "CFPB-TEC",
+      "codi": 2251,
+      "descripcio": "Equips elèctrics i electrònics",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EP",
+      "codi": 4000,
+      "descripcio": "Llengua catalana i literatura",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "ESO2",
+      "codi": 2620,
+      "descripcio": "Geografia i història",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 99,
+      "descripcio": "Coordinació EI",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 102,
+      "descripcio": "Coordinació BAT",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4130,
+      "descripcio": "Coneixement de si mateix i d'autonomia personal",
+      "suport": "AL",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 146,
+      "descripcio": "Direcció Test",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 88,
+      "descripcio": "Hores de AL (ESO)",
+      "suport": "PT",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 85,
+      "descripcio": "Hores de reforç i ampliació (ESO)",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "CFPB-TEC",
+      "codi": 2230,
+      "descripcio": "Ciències aplicades I",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "CFGS-SEC",
+      "codi": 646,
+      "descripcio": "Entorns de desenvolupament",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4142,
+      "descripcio": "Llenguatges: comunicació i representació",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EP",
+      "codi": 2499,
+      "descripcio": "Valors socials i cívics",
+      "suport": "PT",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4132,
+      "descripcio": "Llenguatges: comunicació i representació",
+      "suport": "PT",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4141,
+      "descripcio": "Coneixement de l'entorn",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "CFGM-SEC",
+      "codi": 94,
+      "descripcio": "Formació i orientació laboral",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 86,
+      "descripcio": "Hores de AL (EI)",
+      "suport": "AL",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 64,
+      "descripcio": "Dedicació a coordinació",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "ESO2",
+      "codi": 3920,
+      "descripcio": "Biologia i geologia",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4140,
+      "descripcio": "Coneixement de si mateix i d'autonomia personal",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 103,
+      "descripcio": "Coordinació FP-TEC",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4140,
+      "descripcio": "Coneixement de si mateix i d'autonomia personal",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 4130,
+      "descripcio": "Coneixement de si mateix i d'autonomia personal",
+      "suport": "AD",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "ESO1",
+      "codi": 88,
+      "descripcio": "Hores de AL (ESO)",
+      "suport": "PT",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "ESO1",
+      "codi": 2665,
+      "descripcio": "Llengua castellana i literatura",
+      "suport": "RG",
+      "tipusSessio": "M",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EI",
+      "codi": 83,
+      "descripcio": "Hores de reforç i ampliació (EI)",
+      "suport": "NR",
+      "tipusSessio": "A",
+      "contracte": "C"
+    },
+    {
+      "nivell": "EE INF/BAS",
+      "codi": 7430,
+      "descripcio": "Educació especial: Educació bàsica",
+      "suport": "NR",
+      "tipusSessio": "M",
+      "contracte": "C"
+    }
+  ]
+}
